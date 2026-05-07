@@ -1,0 +1,249 @@
+/* optional import skipped */
+.root .left-0 {
+    left: 0px
+}
+.root .top-0 {
+    top: 0px
+}
+.root .mx-0_d_5 {
+    margin-left: 2px;
+    margin-right: 2px
+}
+.root .mb-1 {
+    margin-bottom: 4px
+}
+.root .mt-1 {
+    margin-top: 4px
+}
+.root .mb-0_d_5 {
+    margin-bottom: 2px
+}
+.root .mt-0_d_5 {
+    margin-top: 2px
+}
+.root .h-3 {
+    height: 12px
+}
+.root .h-_lb_0_d_8px_rb_ {
+    height: 0.8px
+}
+.root .h-_lb_1_d_5px_rb_ {
+    height: 1.5px
+}
+.root .h-_lb_10px_rb_ {
+    height: 10px
+}
+.root .h-_lb_1px_rb_ {
+    height: 1px
+}
+.root .h-full {
+    height: 100%
+}
+.root .h-5 {
+    height: 20px
+}
+.root .max-h-_lb_600px_rb_ {
+    max-height: 600px
+}
+.root .min-h-_lb_320px_rb_ {
+    min-height: 320px
+}
+.root .w-48 {
+    width: 192px
+}
+.root .w-5 {
+    width: 20px
+}
+.root .w-full {
+    width: 100%
+}
+.root .max-w-4xl {
+    max-width: 896px
+}
+.root .flex-1 {
+    flex: 1 1 0%
+}
+.root .flex-row {
+    flex-direction: row
+}
+.root .flex-col {
+    flex-direction: column
+}
+.root .items-center {
+    align-items: center
+}
+.root .justify-center {
+    justify-content: center
+}
+.root .justify-between {
+    justify-content: space-between
+}
+.root .overflow-hidden {
+    overflow: hidden
+}
+.root .rounded {
+    border-radius: 4px
+}
+.root .rounded-full {
+    border-radius: 9999px
+}
+.root .rounded-md {
+    border-radius: 6px
+}
+.root .rounded-sm {
+    border-radius: 2px
+}
+.root .border {
+    border-width: 1px
+}
+.root .border-2 {
+    border-width: 2px
+}
+.root .border-brand-blue_s_50 {
+    border-color: rgba(73, 128, 153, 0.5)
+}
+.root .border-brand-teal {
+    border-color: #30C0B7
+}
+.root .border-brand-teal_s_60 {
+    border-color: rgba(48, 192, 183, 0.6)
+}
+.root .border-gray-600 {
+    border-color: #4b5563
+}
+.root .border-orange-500 {
+    border-color: #f97316
+}
+.root .border-sky-500 {
+    border-color: #0ea5e9
+}
+.root .border-sky-500_s_70 {
+    border-color: rgba(14, 165, 233, 0.7)
+}
+.root .bg-black_s_40 {
+    background-color: rgba(0, 0, 0, 0.4)
+}
+.root .bg-brand-blue {
+    background-color: #498099
+}
+.root .bg-brand-blue_s_20 {
+    background-color: rgba(73, 128, 153, 0.2)
+}
+.root .bg-brand-blue_s_30 {
+    background-color: rgba(73, 128, 153, 0.3)
+}
+.root .bg-brand-blue_s_60 {
+    background-color: rgba(73, 128, 153, 0.6)
+}
+.root .bg-brand-rose_s_90 {
+    background-color: rgba(133, 36, 103, 0.9)
+}
+.root .bg-brand-teal_s_30 {
+    background-color: rgba(48, 192, 183, 0.3)
+}
+.root .bg-brand-teal_s_50 {
+    background-color: rgba(48, 192, 183, 0.5)
+}
+.root .bg-brand-teal_s_90 {
+    background-color: rgba(48, 192, 183, 0.9)
+}
+.root .bg-cyan-500 {
+    background-color: #06b6d4
+}
+.root .bg-gray-800 {
+    background-color: #1f2937
+}
+.root .bg-orange-900_s_50 {
+    background-color: rgba(124, 45, 18, 0.5)
+}
+.root .bg-slate-900 {
+    background-color: #0f172a
+}
+.root .bg-slate-900_s_80 {
+    background-color: rgba(15, 23, 42, 0.8)
+}
+.root .bg-slate-900_s_95 {
+    background-color: rgba(15, 23, 42, 0.95)
+}
+.root .p-4 {
+    padding: 16px
+}
+.root .px-0_d_5 {
+    padding-left: 2px;
+    padding-right: 2px
+}
+.root .px-1 {
+    padding-left: 4px;
+    padding-right: 4px
+}
+.root .px-2 {
+    padding-left: 8px;
+    padding-right: 8px
+}
+.root .py-1 {
+    padding-top: 4px;
+    padding-bottom: 4px
+}
+.root .text-_lb_10px_rb_ {
+    font-size: 10px
+}
+.root .text-sm {
+    font-size: 14px
+}
+.root .text-xs {
+    font-size: 12px
+}
+.root .text-brand-teal {
+    color: #30C0B7
+}
+.root .text-gray-400 {
+    color: #9ca3af
+}
+.root .text-green-200 {
+    color: #bbf7d0
+}
+.root .text-orange-200 {
+    color: #fed7aa
+}
+.root .text-sky-200 {
+    color: #bae6fd
+}
+.root .text-slate-100 {
+    color: #f1f5f9
+}
+.root .text-white {
+    color: #fff
+}
+.root .opacity-35 {
+    opacity: 0.35
+}
+.root .opacity-70 {
+    opacity: 0.7
+}
+.root .wrap {
+    white-space: normal
+}
+.root .duration-100 {
+    transition-duration: 100ms
+}
+.root .duration-500 {
+    transition-duration: 500ms
+}
+.root .ease-out {
+    transition-timing-function: ease-out
+}
+.root .text-center {
+    -unity-text-align: middle-center
+}
+.root .flex {
+    display: flex
+}
+.root .relative {
+    position: relative
+}
+.root .absolute {
+    position: absolute
+}
+.root .font-anta {
+    -unity-font: resource("Fonts/Anta-Regular")
+}
