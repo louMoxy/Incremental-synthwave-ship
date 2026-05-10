@@ -8381,6 +8381,7 @@ MonoBehaviour:
   coalThreat: 2
   ironThreat: 4
   goldThreat: 8
+  threatLevel: 30
 --- !u!114 &892588234
 MonoBehaviour:
   m_ObjectHideFlags: 0

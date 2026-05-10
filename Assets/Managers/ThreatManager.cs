@@ -11,7 +11,7 @@ public class ThreatManager : MonoBehaviour
     [SerializeField] float ironThreat = 4f;
     [SerializeField] float goldThreat = 8f;
 
-    float threatLevel;
+    [SerializeField] float threatLevel;
 
     public float ThreatLevel => threatLevel;
     public float ThreatNormalised => threatLevel / maxThreat; // 0–1, for UI and Music
